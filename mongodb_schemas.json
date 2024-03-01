@@ -1,0 +1,20 @@
+{
+    "academic_records": {
+      "student_id": "ObjectId",
+      "name": "String",
+      "grades": ["String"],
+      "subjects": ["String"],
+      "academic_info": {
+        "field_of_study": "String",
+        "GPA": "Number"
+      }
+    },
+    "co_curricular_activities": {
+      "student_id": "ObjectId",
+      "name": "String",
+      "activity_type": "String",
+      "duration": "String",
+      "achievements": ["String"]
+    }
+  }
+  
